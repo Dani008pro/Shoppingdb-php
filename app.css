@@ -1,0 +1,17 @@
+a{
+    text-align: center;
+}
+
+.edit{
+    text-decoration: none;
+}
+.delete{
+    text-decoration: none;
+  
+}
+.edit_tr{
+    width: 7%;
+}
+.delete_tr{
+    width: 7%;
+}
